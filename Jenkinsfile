@@ -1,3 +1,3 @@
-stage('Project 1 Stage') {
-    echo 'Project 1 Stage'
+stage('first-project Stage') {
+    echo 'first-project Stage'
 }
